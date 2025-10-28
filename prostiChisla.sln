@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prostiChisla", "prostiChisla.csproj", "{599459FA-A84F-41BA-B7B9-6B71D00F01FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTestNumberCollection", "..\NunitTestNumberCollection\NunitTestNumberCollection.csproj", "{BA736852-9BAF-4912-9EE7-C4E18A1604F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599459FA-A84F-41BA-B7B9-6B71D00F01FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599459FA-A84F-41BA-B7B9-6B71D00F01FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599459FA-A84F-41BA-B7B9-6B71D00F01FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599459FA-A84F-41BA-B7B9-6B71D00F01FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA736852-9BAF-4912-9EE7-C4E18A1604F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA736852-9BAF-4912-9EE7-C4E18A1604F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA736852-9BAF-4912-9EE7-C4E18A1604F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA736852-9BAF-4912-9EE7-C4E18A1604F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {626B283E-FC08-4161-A4E0-723F05E36A10}
+	EndGlobalSection
+EndGlobal

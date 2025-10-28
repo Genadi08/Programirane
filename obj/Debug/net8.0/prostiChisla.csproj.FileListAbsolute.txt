@@ -1,0 +1,14 @@
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\bin\Debug\net8.0\prostiChisla.exe
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\bin\Debug\net8.0\prostiChisla.deps.json
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\bin\Debug\net8.0\prostiChisla.runtimeconfig.json
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\bin\Debug\net8.0\prostiChisla.dll
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\bin\Debug\net8.0\prostiChisla.pdb
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\prostiChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\prostiChisla.AssemblyInfoInputs.cache
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\prostiChisla.AssemblyInfo.cs
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\prostiChisla.csproj.CoreCompileInputs.cache
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\prostiChisla.dll
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\refint\prostiChisla.dll
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\prostiChisla.pdb
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\prostiChisla.genruntimeconfig.cache
+C:\Users\1212-2\Documents\Генади Колев 11а\prostiChisla\obj\Debug\net8.0\ref\prostiChisla.dll
