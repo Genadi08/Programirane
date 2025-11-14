@@ -1,0 +1,14 @@
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\bin\Debug\net9.0\Proekt2luboigenadi.exe
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\bin\Debug\net9.0\Proekt2luboigenadi.deps.json
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\bin\Debug\net9.0\Proekt2luboigenadi.runtimeconfig.json
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\bin\Debug\net9.0\Proekt2luboigenadi.dll
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\bin\Debug\net9.0\Proekt2luboigenadi.pdb
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\Proekt2luboigenadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\Proekt2luboigenadi.AssemblyInfoInputs.cache
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\Proekt2luboigenadi.AssemblyInfo.cs
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\Proekt2luboigenadi.csproj.CoreCompileInputs.cache
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\Proekt2luboigenadi.dll
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\refint\Proekt2luboigenadi.dll
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\Proekt2luboigenadi.pdb
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\Proekt2luboigenadi.genruntimeconfig.cache
+C:\Users\1212-7\Desktop\ProektNumber2\Proekt2luboigenadi\Proekt2luboigenadi\obj\Debug\net9.0\ref\Proekt2luboigenadi.dll
