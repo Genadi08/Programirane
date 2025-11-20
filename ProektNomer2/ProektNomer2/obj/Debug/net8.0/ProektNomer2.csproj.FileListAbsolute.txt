@@ -1,0 +1,18 @@
+C:\Users\Admin\OneDrive - Министерство на образованието и науката\Pictures\Desktop\programirane\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Министерство на образованието и науката\Pictures\Desktop\programirane\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Министерство на образованието и науката\Pictures\Desktop\programirane\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Министерство на образованието и науката\Pictures\Desktop\programirane\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.AssemblyInfoInputs.cache
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.AssemblyInfo.cs
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\bin\Debug\net8.0\ProektNomer2.exe
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\bin\Debug\net8.0\ProektNomer2.deps.json
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\bin\Debug\net8.0\ProektNomer2.runtimeconfig.json
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\bin\Debug\net8.0\ProektNomer2.dll
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\bin\Debug\net8.0\ProektNomer2.pdb
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.dll
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\refint\ProektNomer2.dll
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.pdb
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ProektNomer2.genruntimeconfig.cache
+C:\Users\1212-1\Desktop\ProektNomer2\ProektNomer2\obj\Debug\net8.0\ref\ProektNomer2.dll
